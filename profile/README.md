@@ -10,8 +10,5 @@ AI should be a tool, not a replacement. We build systems that respect the humans
 
 ### Got a challenge?
 
-Messy data? Wondering if LLMs can help without breaking everything? Let's talk.
-
-[johan@resolve.works](mailto:johan@resolve.works)
-
-[https://resolve.works](https://resolve.works)
+Messy data? Wondering if LLMs can help without breaking everything? [Let's
+talk](mailto:johan@resolve.works).
